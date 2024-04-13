@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/jammu-tourism/static/css/main.adf11607.css",
+    "main.js": "/jammu-tourism/static/js/main.1c29e642.js",
+    "static/js/453.bb828c5d.chunk.js": "/jammu-tourism/static/js/453.bb828c5d.chunk.js",
+    "static/media/kistwar.mp4": "/jammu-tourism/static/media/kistwar.988493a0cf0a8466222e.mp4",
+    "static/media/video2.mp4": "/jammu-tourism/static/media/video2.1c58197cf95cba06fa93.mp4",
+    "static/media/aboutk.jpg": "/jammu-tourism/static/media/aboutk.3576f1e4441fc67702d8.jpg",
+    "static/media/gk6.jpg": "/jammu-tourism/static/media/gk6.13b8dfd7829e6523f527.jpg",
+    "static/media/gk10.jpg": "/jammu-tourism/static/media/gk10.30a21579de73b25245aa.jpg",
+    "static/media/gk2.jpg": "/jammu-tourism/static/media/gk2.09b9898b293dfcb93aa8.jpg",
+    "static/media/gk1.jpg": "/jammu-tourism/static/media/gk1.bf556365d38168070e47.jpg",
+    "static/media/gk3.jpg": "/jammu-tourism/static/media/gk3.6d85f0826fee623033c7.jpg",
+    "static/media/new-slid4.jpg": "/jammu-tourism/static/media/new-slid4.e5e0b6e56875c7cdbcbe.jpg",
+    "static/media/new-slid1.jpg": "/jammu-tourism/static/media/new-slid1.9b242f790f943ee21729.jpg",
+    "static/media/blogo-removebg-preview.png": "/jammu-tourism/static/media/blogo-removebg-preview.d4c43497c4d474bb6196.png",
+    "static/media/5605216.jpg": "/jammu-tourism/static/media/5605216.71986f01d96b31fb8005.jpg",
+    "static/media/bagh-e-bahu.jpg": "/jammu-tourism/static/media/bagh-e-bahu.5a2ae6eb1490306092f5.jpg",
+    "static/media/raghunath-temple.jpg": "/jammu-tourism/static/media/raghunath-temple.f0152930910114eded75.jpg",
+    "static/media/logo.png": "/jammu-tourism/static/media/logo.066bbec4d4576a107720.png",
+    "static/media/bahu-fort.jpg": "/jammu-tourism/static/media/bahu-fort.94869f887bd6134a5643.jpg",
+    "index.html": "/jammu-tourism/index.html",
+    "main.adf11607.css.map": "/jammu-tourism/static/css/main.adf11607.css.map",
+    "main.1c29e642.js.map": "/jammu-tourism/static/js/main.1c29e642.js.map",
+    "453.bb828c5d.chunk.js.map": "/jammu-tourism/static/js/453.bb828c5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adf11607.css",
+    "static/js/main.1c29e642.js"
+  ]
+}
