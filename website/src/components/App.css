@@ -1,0 +1,192 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 30px;
+  min-height: 100vh;
+  width: 100%;
+  box-sizing: border-box;
+  height: 7210px;
+  background-image: url('5605216.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgb(214, 214, 214);
+}
+
+/* Homepage */
+
+.homepage-header {
+  text-align: center;
+  padding: 20px;
+  background-color: #f8f8f8;
+}
+
+.homepage-header h1 {
+  margin-top: 0;
+  font-size: 36px;
+  color: #333;
+}
+
+.homepage-header p {
+  font-size: 18px;
+  color: #666;
+}
+
+/* Attractions */
+
+.attractions-page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.attraction {
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  padding-right: 20px;
+}
+
+.attraction img {
+  width: 100%;
+  height: auto;
+  padding-right: auto;
+  border-bottom: 1px solid #ccc;
+}
+
+.attraction-details {
+  padding: 80px;
+}
+
+.attraction-details h3 {
+  margin-top: 0;
+  font-size: 24px;
+  color: #333;
+}
+
+.attraction-details p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #666;
+}
+
+/* Footer Section */
+
+.footer {
+  background: #1d3456;
+  padding: 10px 0;
+  font-size: 18px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: oblique;
+  color: #fff;
+}
+
+/* Attraction Section => Style for the attractions page container */
+
+/* App.css */
+.attractions-page {
+  max-width: 1000px;
+  margin: auto;
+  padding: 50px;
+}
+
+.attraction {
+  margin-bottom: 40px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.attraction img {
+  width: 100%;
+  height: auto;
+  border-bottom: 2px solid #ccc;
+  padding: 10px;
+}
+
+.attraction-details {
+  padding: 20px;
+}
+
+.attraction-details h3 {
+  margin-top: 0;
+  font-size: 24px;
+  color: #333;
+}
+
+.attraction-details p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #666;
+}
+
+/* Header Section => Style for the header container */
+
+.homepage-header h1 {
+  font-size: 42px;
+  margin-bottom: 10px;
+  color: #50595d;
+}
+
+.homepage-header p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+  color: rgb(50, 53, 54);
+}
+
+.header {
+  background-color: rgb(177, 117, 149);
+  color: rgb(56, 53, 55);
+  padding: 45px 0;
+}
+
+/* Style for the header wrap */
+.header-wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Style for the homepage header */
+.homepage-header {
+  margin-bottom: 20px;
+}
+
+/* Style for the navigation menu */
+.navigation-menu {
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: auto;
+  height: 0px;
+}
+
+/* Style for the navigation links */
+.nav li {
+  margin-right: 5px;
+}
+
+/* Style for the navigation link text */
+.nav-link {
+  margin-right: 20px;
+  text-decoration: none;
+  color: #333;
+  background: rgb(141, 198, 217);
+  border: 3px solid;
+  padding: 10px;
+  border-radius: 30%;
+  font-size: 16px;
+}
+
+/* Style for the navigation link on hover */
+.nav-link:hover {
+  color: #ffc107;
+}
