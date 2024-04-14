@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jammu-tourism/static/css/main.adf11607.css",
-    "main.js": "/jammu-tourism/static/js/main.1c29e642.js",
+    "main.css": "/jammu-tourism/static/css/main.9c5d1830.css",
+    "main.js": "/jammu-tourism/static/js/main.0a1687e4.js",
     "static/js/453.bb828c5d.chunk.js": "/jammu-tourism/static/js/453.bb828c5d.chunk.js",
     "static/media/kistwar.mp4": "/jammu-tourism/static/media/kistwar.988493a0cf0a8466222e.mp4",
     "static/media/video2.mp4": "/jammu-tourism/static/media/video2.1c58197cf95cba06fa93.mp4",
@@ -20,12 +20,12 @@
     "static/media/logo.png": "/jammu-tourism/static/media/logo.066bbec4d4576a107720.png",
     "static/media/bahu-fort.jpg": "/jammu-tourism/static/media/bahu-fort.94869f887bd6134a5643.jpg",
     "index.html": "/jammu-tourism/index.html",
-    "main.adf11607.css.map": "/jammu-tourism/static/css/main.adf11607.css.map",
-    "main.1c29e642.js.map": "/jammu-tourism/static/js/main.1c29e642.js.map",
+    "main.9c5d1830.css.map": "/jammu-tourism/static/css/main.9c5d1830.css.map",
+    "main.0a1687e4.js.map": "/jammu-tourism/static/js/main.0a1687e4.js.map",
     "453.bb828c5d.chunk.js.map": "/jammu-tourism/static/js/453.bb828c5d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.adf11607.css",
-    "static/js/main.1c29e642.js"
+    "static/css/main.9c5d1830.css",
+    "static/js/main.0a1687e4.js"
   ]
 }
