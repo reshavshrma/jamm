@@ -84,21 +84,22 @@ function HomePage() {
           </div>
         </div>
       </div>
-      <h3 style={{ textAlign: 'left', paddingLeft: 460, fontSize: 30 }}><b><span>Videos</span></b></h3>
+      <h3 style={{ textAlign: 'left', paddingLeft: 460, fontSize: 30, marginTop: -40, marginBottom: -75 }}><b>Videos</b></h3>
       <div className="container page-builder-ltr" style={{ textAlign: 'center' }}>
         <div className="row row-style row_a1">
           <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12 col_a1c about-video">
-            <video width="50%" height="380" controls>
+            <video width="100%" height="580" controls>
               <source src={kistwarVideo} type="video/mp4" />
             </video>
           </div>
           <div className="col-lg-6 col-md-6 col-sm-6 col-xs-12 col_a1c about-video">
-            <video width="50%" height="380" controls>
+            <video width="100%" height="580" controls>
               <source src={video2} type="video/mp4" />
             </video>
           </div>
         </div>
       </div>
+      <h3><span></span></h3>
 
       <style>
         {`
@@ -106,10 +107,12 @@ function HomePage() {
           padding-bottom: 5px;
         }
         `}
+        
       </style>
       <h3><span></span></h3>
-        
-      <h3 style={{ textAlign: 'left', paddingLeft: 460, fontSize: 30 }}><b><span>Gallery</span></b></h3>
+      <h3><span></span></h3>
+
+      <h3 style={{ textAlign: 'left', paddingLeft: 460, fontSize: 30, marginTop: 60, marginBottom: 10 }}><b>Gallery</b></h3>
       
       <div className="image-gallery">
         <div className="image-row">
@@ -151,32 +154,37 @@ function HomePage() {
         .image-gallery {
           display: flex;
           flex-direction: column;
-          margin-top: 20px;
+          margin-top: 70px;
+          padding-left: 1%;
+          padding-right: 1%;
         }
 
         .image-row {
           display: flex;
           justify-content: space-between;
-          margin-bottom: 10px;
-          padding-left: 10%;
-          padding-right: 10%;
-          gap: 10px; /* Space between columns */
+          margin-bottom: 40px;
+          padding-left: 2%;
+          padding-right: 2%;
+          gap: 60px;
         }
 
         .image-item {
           flex: 1;
-          margin: 0 0 0 100px; /* Adjusted margin for space between images */
-          height: 500px; /* Fixed height for symmetry */
-          border-radius: 20px; /* Rounded border */
-          overflow: hidden; /* Ensure image stays within the border */
+          margin: 0 0 0 100px;
+          height: 500px;
+          border-radius: 20px;
+          overflow: hidden;
           margin-bottom: 20px;
+          margin: 0 auto; 
+          max-width: 45%;
         }
 
         .image-item img {
-          width: 100%;
+          width: auto;
           height: 100%;
-          object-fit: cover; /* Ensure the image covers the container */
-          border-radius: 20px; /* Rounded border for the image */
+          object-fit: cover;
+          image-align: center;
+          border-radius: 20px;
         }
         `}
       </style>

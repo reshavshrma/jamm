@@ -9,8 +9,18 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <HomePage />
-      <AttractionsPage />
+      <div className="container">
+        <div className="row">
+          <div className="col">
+            <HomePage />
+          </div>
+        </div>
+        <div className="row">
+          <div className="col">
+            <AttractionsPage />
+          </div>
+        </div>
+      </div>
       <Footer />
     </div>
   );
